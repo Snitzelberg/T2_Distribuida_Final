@@ -23,7 +23,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author thiago
+ * @author
  */
 public class TelaInicial extends javax.swing.JFrame {
 

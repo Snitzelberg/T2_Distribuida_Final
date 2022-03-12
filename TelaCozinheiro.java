@@ -24,7 +24,7 @@ import org.jgroups.util.Util;
 
 /**
  *
- * @author thiago
+ * @author
  */
 public class TelaCozinheiro extends javax.swing.JFrame {
 
@@ -64,7 +64,7 @@ public class TelaCozinheiro extends javax.swing.JFrame {
             }
         });
 
-        jTextField1.setText("jTextField1");
+        jTextField1.setText("Digite o pedido");
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);

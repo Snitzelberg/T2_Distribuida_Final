@@ -6,7 +6,7 @@
 
 /**
  *
- * @author thiago
+ * @author
  */
 public class TelaFinal extends javax.swing.JFrame {
 

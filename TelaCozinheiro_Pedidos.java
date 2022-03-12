@@ -10,7 +10,7 @@ import java.io.FileReader;
 
 /**
  *
- * @author thiago
+ * @author
  */
 public class TelaCozinheiro_Pedidos extends javax.swing.JFrame {
 
