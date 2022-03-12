@@ -1,5 +1,11 @@
 # T2_Distribuida_Final
 
+Trabalho 2 da Disciplina de Computacao Distribuida INE5418
+
+Aplicação distribuída utilizando Java e JGroups como suporte a comunicação.
+
+"Restaurante Md Conalds"
+
 
 1) Download do JGroups. Obs: nosso projeto já vem com o JGroups 3.0.0
 dentro do diretório.
